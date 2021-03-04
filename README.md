@@ -1,5 +1,5 @@
 # Speech-enhancement-and-separation
-大三秋季学习DSP课程项目，语音增强和分离。
+大三秋季学习DSP课程项目，机器学习课程项目，语音增强和分离。
 
 原理是基于mask的语音信号增强分离，用神经网络训练完成。
 
